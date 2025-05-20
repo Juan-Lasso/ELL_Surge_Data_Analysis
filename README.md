@@ -27,5 +27,6 @@ Factors such as changes in classification, policy shifts, or new program rollout
 The original dataset used in this analysis can be found here:  
 [Download Demographic Snapshot Data (Excel)](https://github.com/Juan-Lasso/ELL_Final_Story/raw/main/ELL_data_folder/raw-data/Demographic_Snapshot_ENL.xlsx)
 
-[Download Demographic Snapshot Data (Excel)](https://github.com/Juan-Lasso/ELL_Final_Story/raw/main/ENL_percent_change.xlsx
+The cleaned data set in this analysis can be found here:
+[Download ENL Percent Change Data (Excel)](https://github.com/Juan-Lasso/ELL_Final_Story/raw/main/ENL_percent_change.xlsx)
 
