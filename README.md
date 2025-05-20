@@ -9,11 +9,11 @@ To understand where the number of English Language Learner students is growing f
 
 The information comes from the DOE’s Demographic Snapshot, a dataset that includes demographic and enrollment figures for every public school in the city. I focused on a subset of the data that tracks ELL enrollment at the school level across recent academic years.
 
-The file — downloaded in April 2025 — includes data up through the 2023–24 school year. The analysis compared enrollment from 2022–23 to 2023–24 to identify which schools saw the biggest increase in the number of ELL students, regardless of school size or percentage changes.
+The file — downloaded in April 2025 — includes data up through the 2023–24 school year. The analysis compared enrollment from 2022–23 to 2023–24 to identify which schools saw the biggest increase in the number of ELL students, regardless of school size using percent change.
 
 To perform the analysis, the data was cleaned and reformatted using Python and the Pandas library. I filtered the file to retain only the relevant fields: school name, year, total enrollment, and the number and percentage of ELL students. A new column was added to extract the starting year of each school year (e.g., 2022 for 2022–23) to simplify comparisons.
 
-After isolating the two most recent years, I calculated the year-over-year change in the number of ELL students at each school. Schools were ranked based on the raw increase in ELL students, and the 10 schools with the largest jumps were selected.
+After isolating the two most recent years, I calculated the year-over-year change in the number of ELL students at each school. Schools were ranked based on the highest percent change in ELL students, and the 10 schools with the largest jumps were selected.
 
 One outlier, Olympus Academy, was excluded from the final results. While the school technically saw a 700% increase in ELL enrollment — from one student in 2022–23 to eight in 2023–24 — the change was not statistically significant compared to the much larger increases at other schools. To maintain the integrity of the findings, only schools with meaningful absolute gains were considered.
 
