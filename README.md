@@ -20,9 +20,8 @@ One outlier, Olympus Academy, was excluded from the final results. While the sch
 The analysis does not account for percentage growth or longer-term trends. Schools with missing data for either of the two years were excluded, as were schools with no change or a decrease in ELL enrollment. The dataset includes both traditional public and charter schools, but no distinction was made between them.
 Factors such as changes in classification, policy shifts, or new program rollouts may also influence ELL counts beyond student movement alone. While the data offers insight into recent shifts, it may not capture the full picture of why certain schools saw rapid growth.
 
-I archived the cleaned data for future reporting and public access.
 
 # Data Source
 
 The original dataset used in this analysis can be found here:  
-[Demographic_Snapshot_ENL.xlsx](./raw-data/Demographic_Snapshot_ENL.xlsx)
+[Download the demographic snapshot data (Excel)](https://github.com/Juan-Lasso/ELL_Final_Story/raw/main/raw-data/Demographic_Snapshot_ENL.xlsx)
