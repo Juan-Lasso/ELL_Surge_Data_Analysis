@@ -2,7 +2,7 @@
 ### As immigrant families arrived in record numbers, some public schools saw their ELL populations explode, exposing deep gaps in educational equity and stretching already thin support systems.
 #### By Juan Lasso | New York, May 20, 2025
 ---
-In the wake of a historic surge in immigration to New York City, public schools experienced a dramatic increase in English Language Learner (ELL) enrollment—jumping from 135,000 to over 148,000 students in just one year. While the influx reflects the growing linguistic diversity of the city, it also reveals deep disparities in how schools are able—or unable—to serve these students. The burden has disproportionately fallen on low-income and overwhelmingly minority schools, with limited bilingual resources, raising questions about the quality of ELL education. 
+In the wake of a historic surge in immigration to New York City, public schools experienced a dramatic increase in English Language Learner (ELL) enrollment—jumping from 135,000 to over 148,000 students between the 2022 and 2023 school years. While the influx reflects the growing linguistic diversity of the city, it also reveals deep disparities in how schools are able—or unable—to serve these students. The burden has disproportionately fallen on low-income and overwhelmingly minority schools, with limited bilingual resources, raising questions about the quality of ELL education. 
 
 # Methodology 
 To understand where the number of English Language Learner students is growing fastest in New York City, I analyzed enrollment data released by the city’s Department of Education.
