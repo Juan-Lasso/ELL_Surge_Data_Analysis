@@ -2,8 +2,10 @@
 ### As immigrant families arrived in record numbers, some public schools saw their ELL populations explode, exposing deep gaps in educational equity and stretching already thin support systems.
 #### By Juan Lasso | New York, May 20, 2025
 ---
-In the wake of a historic surge in immigration to New York City, public schools experienced a dramatic increase in English Language Learner (ELL) enrollment—jumping from 135,000 to over 148,000 students between the 2022 and 2023 school years. While the influx reflects the growing linguistic diversity of the city, it also reveals deep disparities in how schools are able—or unable—to serve these students. The burden has disproportionately fallen on low-income and overwhelmingly minority schools, with limited bilingual resources, raising questions about the quality of ELL education. 
-🔗 [Click here to view the full story](https://juan-lasso.github.io/ELL_Final_Story/ELL_data_folder/advdata_final_story_ell.html)
+As New York City rolls out its congestion pricing program, state officials are encouraging Long Island commuters to shift from driving to using the Long Island Rail Road (LIRR). LIRR leadership touts record on-time performance rates, but a deeper look into state data and rider experiences reveals a more complex picture. While trains ran on time more often in 2024 than in any previous non-pandemic year, the total number of delayed trains remains higher than in 2022 due to increased service and ongoing infrastructure issues. Riders continue to deal with operational hiccups — like missed transfers at Jamaica Station and persistent equipment problems — even as the system expands. 
+
+Meanwhile, fare increases loom, leaving commuters frustrated by rising costs despite modest service improvements. The story examines the gap between official performance metrics and the everyday experience of riders navigating a changing transit landscape.
+🔗 [Click here to view the full story]([https://juan-lasso.github.io/ELL_Final_Story/ELL_data_folder/advdata_final_story_ell.html](https://liherald.com/stories/why-long-island-rail-roads-record-on-time-performance-tells-only-half-the-story,212536)
 
 # Methodology 
 To understand where the number of English Language Learner students is growing fastest in New York City, I analyzed enrollment data released by the city’s Department of Education.
