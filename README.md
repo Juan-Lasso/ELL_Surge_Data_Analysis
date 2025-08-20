@@ -30,7 +30,7 @@ The cleaned, modified data set in this analysis can be found here:
 # Additional Data Collection and Analysis
 To assess whether significant funding increases were tied to ELL enrollment—particularly the $25 million in early Fair Student Funding—we examined Galaxy Allocations, which provide detailed line-item budgets for each school, including adjustments, mid-year changes, and special allocations such as “Enrollment Change Adjustment,” “Advance Payment,” and “Register Relief.”
 
-Using each school’s DBN code, we identified the specific resource funding allocated to our top 10 schools. Data on homelessness populations, attendance rates, and overall student demographics were drawn primarily from the New York State Education Department. The ESL teacher counts from year to year was obtained from the state’s personnel master file. The data analysis can be found here: 
+Using each school’s DBN code, we identified the specific resource funding allocated to our top 10 schools. Data on homelessness populations, attendance rates, and overall student demographics were drawn primarily from the New York State Education Department. The ESL teacher counts from year to year was obtained from the state’s personnel master file. The data analysis can be found here: [Download ENL Percent Change Data (Excel)](https://raw.githubusercontent.com/Juan-Lasso/ELL_Surge_Data_Analysis/main/ELL_Final_Story/ELL_data_folder/ENL_Teachers_2022-23to2023-24.xlsx)
 
 While there are minor discrepancies in total ELL counts between the city’s NYC Demographic Snapshot and the state’s published data—largely reflecting differences in reporting periods and collection methods—these variances are small and do not materially affect the trends or conclusions presented in this analysis.
 
