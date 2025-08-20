@@ -22,7 +22,7 @@ The analysis does not account for longer-term trends. Schools with missing data 
 # Data Source
 
 The original dataset used in this analysis can be found here:  
-[Download Demographic Snapshot Data (Excel)](https://github.com/Juan-Lasso/ELL_Surge_Data_Analysis/blob/main/ELL_data_folder/raw-data/Demographic_Snapshot_ENL.xlsx)
+[Download Demographic Snapshot Data (Excel)](https://raw.githubusercontent.com/Juan-Lasso/ELL_Surge_Data_Analysis/main/ELL_Final_Story/ELL_data_folder/raw-data/Demographic_Snapshot_ENL.xlsx)
 
 The cleaned, modified data set in this analysis can be found here:
 [Download ENL Percent Change Data (Excel)](https://github.com/Juan-Lasso/ELL_Surge_Data_Analysis/raw/main/ELL_data_folder/ENL_percent_change.xlsx)
