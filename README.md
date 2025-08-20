@@ -9,7 +9,7 @@ To understand where the number of English Language Learner students is growing f
 
 The information comes from the DOE’s Demographic Snapshot, a dataset that includes demographic and enrollment figures for every public school in the city. I focused on a subset of the data that tracks ELL enrollment at the school level across recent academic years.
 
-The file — downloaded in April 2025 — includes data up through the 2023–24 school year. The analysis compared enrollment from 2022–23 to 2023–24 to identify which schools saw the biggest increase in the number of ELL students, regardless of school size using percent change.
+The file, downloaded in April 2025, includes data up through the 2023–24 school year. The analysis compared enrollment from 2022–23 to 2023–24 to identify which schools saw the biggest increase in the number of ELL students, regardless of school size using percent change.
 
 To perform the analysis, the data was cleaned and reformatted using Python and the Pandas library. I filtered the file to retain only the relevant fields: school name, year, total enrollment, and the number and percentage of ELL students. A new column was added to extract the starting year of each school year (e.g., 2022 for 2022–23) to simplify comparisons.
 
@@ -32,5 +32,5 @@ To assess whether significant funding increases were tied to ELL enrollment—pa
 
 Using each school’s DBN code, we identified the specific resource funding allocated to our top 10 schools. Data on homelessness populations, attendance rates, and overall student demographics were drawn primarily from the New York State Education Department. The ESL teacher counts from year to year was obtained from the state’s personnel master file. The data analysis can be found here: [Download ESL Teacher Count Data (Excel)](https://raw.githubusercontent.com/Juan-Lasso/ELL_Surge_Data_Analysis/main/ELL_Final_Story/ELL_data_folder/ENL_Teachers_2022-23to2023-24.xlsx)
 
-While there are minor discrepancies in total ELL counts between the city’s NYC Demographic Snapshot and the state’s published data—largely reflecting differences in reporting periods and collection methods—these variances are small and do not materially affect the trends or conclusions presented in this analysis.
+While there are minor discrepancies in total ELL student counts between the city’s NYC Demographic Snapshot and the state’s published data—largely reflecting differences in reporting periods and collection methods—these variances are small and do not materially affect the trends or conclusions presented in this analysis.
 
