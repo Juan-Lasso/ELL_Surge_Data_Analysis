@@ -2,8 +2,7 @@
 ### As immigrant families arrived in record numbers, some public schools saw their ELL populations explode, exposing deep gaps in educational equity and stretching already thin support systems.
 #### By Juan Lasso | New York, May 20, 2025
 ---
-In the wake of a historic surge in immigration to New York City, public schools experienced a dramatic increase in English Language Learner (ELL) enrollment—jumping from 135,000 to over 148,000 students between the 2022 and 2023 school years. While the influx reflects the growing linguistic diversity of the city, it also reveals deep disparities in how schools are able—or unable—to serve these students. The burden has disproportionately fallen on low-income and overwhelmingly minority schools, with limited bilingual resources, raising questions about the quality of ELL education. 
-🔗 [Click here to view the full story](https://juan-lasso.github.io/ELL_Final_Story/ELL_data_folder/advdata_final_story_ell.html)
+In the wake of a historic surge in immigration to New York City, public schools experienced a dramatic increase in English Language Learner (ELL) enrollment—jumping from 135,000 to over 148,000 students between the 2022 and 2023 school years. While the influx reflects the growing linguistic diversity of the city, it also reveals deep disparities in how schools are able, or unable, to serve these students. The burden has disproportionately fallen on low-income and overwhelmingly minority schools, with limited bilingual resources, raising questions about the quality of ELL education. 
 
 # Methodology 
 To understand where the number of English Language Learner students is growing fastest in New York City, I analyzed enrollment data released by the city’s Department of Education.
@@ -18,8 +17,7 @@ After isolating the two most recent years, I calculated the year-over-year chang
 
 One outlier, Olympus Academy, was excluded from the final results. While the school technically saw a 700% increase in ELL enrollment — from one student in 2022–23 to eight in 2023–24 — the change was not statistically significant compared to the much larger increases at other schools. To maintain the integrity of the findings, only schools with meaningful absolute gains were considered.
 
-The analysis does not account for percentage growth or longer-term trends. Schools with missing data for either of the two years were excluded, as were schools with no change or a decrease in ELL enrollment. The dataset includes both traditional public and charter schools, but no distinction was made between them.
-Factors such as changes in classification, policy shifts, or new program rollouts may also influence ELL counts beyond student movement alone. While the data offers insight into recent shifts, it may not capture the full picture of why certain schools saw rapid growth.
+The analysis does not account for longer-term trends. Schools with missing data for either of the two years were excluded, as were schools with no change or a decrease in ELL enrollment. The dataset includes both traditional public and charter schools, but no distinction was made between them. Factors such as changes in classification, policy shifts, or new program rollouts may also influence ELL counts beyond student movement alone. While the data offers insight into recent shifts, it may not capture the full picture of why certain schools saw rapid growth. Moreover, ELL status should be understood as proxy data: not every ELL student is a newly arrived immigrant, yet the measure is useful for identifying impact. During the height of the immigration surge, schools that once served only a handful of ELL students suddenly found themselves with dozens more, suggesting a link between new arrivals and the rapid growth schools experienced, even if other factors also played a role.
 
 
 # Data Source
