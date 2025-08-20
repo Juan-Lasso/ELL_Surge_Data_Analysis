@@ -25,7 +25,7 @@ The original dataset used in this analysis can be found here:
 [Download Demographic Snapshot Data (Excel)](https://raw.githubusercontent.com/Juan-Lasso/ELL_Surge_Data_Analysis/main/ELL_Final_Story/ELL_data_folder/raw-data/Demographic_Snapshot_ENL.xlsx)
 
 The cleaned, modified data set in this analysis can be found here:
-[Download ENL Percent Change Data (Excel)](https://github.com/Juan-Lasso/ELL_Surge_Data_Analysis/raw/main/ELL_data_folder/ENL_percent_change.xlsx)
+[Download ENL Percent Change Data (Excel)](https://raw.githubusercontent.com/Juan-Lasso/ELL_Surge_Data_Analysis/main/ELL_Final_Story/ELL_data_folder/raw-data/ENL_percent_change.xlsx)
 
 # Additional Data Collection and Analysis
 To assess whether significant funding increases were tied to ELL enrollment—particularly the $25 million in early Fair Student Funding—we examined Galaxy Allocations, which provide detailed line-item budgets for each school, including adjustments, mid-year changes, and special allocations such as “Enrollment Change Adjustment,” “Advance Payment,” and “Register Relief.”
