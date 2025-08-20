@@ -19,7 +19,6 @@ One outlier, Olympus Academy, was excluded from the final results. While the sch
 
 The analysis does not account for longer-term trends. Schools with missing data for either of the two years were excluded, as were schools with no change or a decrease in ELL enrollment. The dataset includes both traditional public and charter schools, but no distinction was made between them. Factors such as changes in classification, policy shifts, or new program rollouts may also influence ELL counts beyond student movement alone. While the data offers insight into recent shifts, it may not capture the full picture of why certain schools saw rapid growth. Moreover, ELL status should be understood as proxy data: not every ELL student is a newly arrived immigrant, yet the measure is useful for identifying impact. During the height of the immigration surge, schools that once served only a handful of ELL students suddenly found themselves with dozens more, suggesting a link between new arrivals and the rapid growth schools experienced, even if other factors also played a role.
 
-
 # Data Source
 
 The original dataset used in this analysis can be found here:  
@@ -27,4 +26,11 @@ The original dataset used in this analysis can be found here:
 
 The cleaned, modified data set in this analysis can be found here:
 [Download ENL Percent Change Data (Excel)](https://github.com/Juan-Lasso/ELL_Final_Story/raw/main/ENL_percent_change.xlsx)
+
+# Additional Data Collection and Analysis
+To assess whether significant funding increases were tied to ELL enrollment—particularly the $25 million in early Fair Student Funding—we examined Galaxy Allocations, which provide detailed line-item budgets for each school, including adjustments, mid-year changes, and special allocations such as “Enrollment Change Adjustment,” “Advance Payment,” and “Register Relief.”
+
+Using each school’s DBN code, we identified the specific resource funding allocated to our top 10 schools. Data on homelessness populations, attendance rates, and overall student demographics were drawn primarily from the New York State Education Department. The ESL teacher counts from year to year was obtained from the state’s personnel master file. The data analysis can be found here: 
+
+While there are minor discrepancies in total ELL counts between the city’s NYC Demographic Snapshot and the state’s published data—largely reflecting differences in reporting periods and collection methods—these variances are small and do not materially affect the trends or conclusions presented in this analysis.
 
